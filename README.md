@@ -1,6 +1,6 @@
 <div align="center">
 
-[<img src="./resources/icon.png" width="144"/>](https://help.nimbuslauncher.gg)
+[<img src="./resources/icon (2).png" width="144"/>](https://help.nimbuslauncher.gg)
 
   <h1 align="center">Nimbus Launcher</h1>
 
