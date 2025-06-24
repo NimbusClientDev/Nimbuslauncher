@@ -8,8 +8,6 @@
     <strong>Nimbus Launcher is an open-source gaming platform created to be the single tool that you need in order to manage your gaming library. Nimbus is written in Node.js (Electron, React, Typescript) and Python.</strong>
   </p>
 
-[![build](https://img.shields.io/github/actions/workflow/status/nimbuslauncher/nimbus/build.yml)](https://github.com/nimbuslauncher/nimbus/actions)
-[![release](https://img.shields.io/github/package-json/v/nimbuslauncher/nimbus)](https://github.com/nimbuslauncher/nimbus/releases)
 
 ![Nimbus Launcher Home Page](./docs/screenshot.png)
 
