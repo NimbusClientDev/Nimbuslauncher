@@ -1,0 +1,146 @@
+{
+  "language_name": "한국어",
+  "home": {
+    "featured": "추천",
+    "surprise_me": "무작위 추천",
+    "no_results": "결과 없음"
+  },
+  "sidebar": {
+    "catalogue": "카탈로그",
+    "downloads": "다운로드",
+    "settings": "설정",
+    "my_library": "내 라이브러리",
+    "downloading_metadata": "{{title}} (메타데이터 다운로드 중…)",
+    "paused": "{{title}} (일시 정지됨)",
+    "downloading": "{{title}} ({{percentage}} - 다운로드 중…)",
+    "filter": "라이브러리 정렬",
+    "home": "홈",
+    "favorites": "즐겨찾기"
+  },
+
+  "header": {
+    "search": "게임 검색하기",
+    "home": "홈",
+    "catalogue": "카탈로그",
+    "downloads": "다운로드",
+    "search_results": "검색 결과",
+    "settings": "설정"
+  },
+  "bottom_panel": {
+    "no_downloads_in_progress": "진행중인 다운로드 없음",
+    "downloading_metadata": "{{title}}의 메타데이터를 다운로드 중…",
+    "downloading": "{{title}}의 파일들을 다운로드 중… ({{percentage}} 완료) - 완료까지 {{eta}} - {{speed}}"
+  },
+  "catalogue": {
+    "next_page": "다음 페이지",
+    "previous_page": "이전 페이지"
+  },
+  "game_details": {
+    "open_download_options": "다운로드 선택지 열기",
+    "download_options_zero": "다운로드 선택지 없음",
+    "download_options_one": "{{count}}개의 다운로드 선택지가 존재함",
+    "download_options_other": "{{count}}개의 다운로드 선택지들이 존재함",
+    "updated_at": "{{updated_at}}에 업데이트 됨",
+    "install": "설치",
+    "resume": "재개",
+    "pause": "일시 정지",
+    "cancel": "취소",
+    "remove": "제거",
+    "space_left_on_disk": "여유 저장 용량 {{space}} 남음",
+    "eta": "완료까지 {{eta}}",
+    "downloading_metadata": "메타데이터 다운로드 중…",
+    "filter": "리팩들을 다음과 같이 정렬하기",
+    "requirements": "시스템 사양",
+    "minimum": "최저 사양",
+    "recommended": "권장 사양",
+    "release_date": "{{date}}에 발매됨",
+    "publisher": "{{publisher}} 배급",
+    "hours": "시",
+    "minutes": "분",
+    "amount_hours": "{{amount}} 시간",
+    "amount_minutes": "{{amount}} 분",
+    "accuracy": "정확도 {{accuracy}}%",
+    "add_to_library": "라이브러리에 추가",
+    "remove_from_library": "라이브러리에서 제거",
+    "no_downloads": "가능한 다운로드 없음",
+    "play_time": "{{amount}}동안 플레이 함",
+    "last_time_played": "마지막 플레이 날짜 {{period}}",
+    "not_played_yet": "{{title}}의 플레이 기록 아직 없음",
+    "next_suggestion": "다음 추천",
+    "play": "실행",
+    "deleting": "인스톨러 삭제 중…",
+    "close": "닫기",
+    "playing_now": "현재 플레이 중",
+    "change": "바꾸기",
+    "repacks_modal_description": "다운로드 할 리팩을 선택해 주세요",
+    "select_folder_hint": "기본 폴더를 바꾸려면 <0>설정</0>으로 가세요",
+    "download_now": "지금 다운로드"
+  },
+  "activation": {
+    "title": "Hydra 실행",
+    "installation_id": "설치 ID:",
+    "enter_activation_code": "활성 코드를 입력하세요",
+    "message": "이것을 어디에서 구해야 할 지 모르겠다면 애초에 갖고 있으면 안 됩니다.",
+    "activate": "활성화",
+    "loading": "불러오는중..."
+  },
+  "downloads": {
+    "resume": "재개",
+    "pause": "일시 정지",
+    "eta": "완료까지 {{eta}}",
+    "paused": "일시 정지됨",
+    "verifying": "검증중…",
+    "completed": "완료됨",
+    "cancel": "취소",
+    "filter": "다운로드 된 게임들을 정렬하기",
+    "remove": "제거하기",
+    "downloading_metadata": "메타데이터 다운로드 중…",
+    "deleting": "인스톨러 삭제 중…",
+    "delete": "인스톨러 삭제하기",
+    "delete_modal_title": "정말로 하시겠습니까?",
+    "delete_modal_description": "이 기기의 모든 설치 파일들이 제거될 것입니다",
+    "install": "설치"
+  },
+  "settings": {
+    "downloads_path": "다운로드 경로",
+    "change": "업데이트",
+    "notifications": "알림",
+    "enable_download_notifications": "다운로드가 완료되었을 때",
+    "enable_repack_list_notifications": "새 리팩이 추가되었을 때",
+    "quit_app_instead_hiding": "작업 표시줄 트레이로 최소화하는 대신 Hydra를 종료",
+    "launch_with_system": "컴퓨터가 시작되었을 때 Hydra 실행",
+    "general": "일반",
+    "behavior": "행동",
+    "cancel_button_confirmation_delete_all_sources": "아니요",
+    "confirm_button_confirmation_delete_all_sources": "네, 모두 삭제합니다",
+    "description_confirmation_delete_all_sources": "모든 다운로드 소스를 삭제합니다.",
+    "title_confirmation_delete_all_sources": "모든 다운로드 소스 삭제",
+    "removed_download_sources": "제거된 글꼴",
+    "button_delete_all_sources": "모든 다운로드 소스 제거",
+    "enable_real_debrid": "Real-Debrid 활성화",
+    "debrid_api_token_hint": "API 키를 <0>이곳</0>에서 얻으세요.",
+    "save_changes": "변경 사항 저장"
+  },
+  "notifications": {
+    "download_complete": "다운로드 완료",
+    "game_ready_to_install": "이제 {{title}} 설치할 수 있습니다",
+    "repack_list_updated": "리팩 목록 갱신됨",
+    "repack_count_one": "{{count}}개의 리팩이 추가됨",
+    "repack_count_other": "{{count}}개의 리팩들이 추가됨"
+  },
+  "system_tray": {
+    "open": "Hydra 열기",
+    "quit": "닫기"
+  },
+  "game_card": {
+    "no_downloads": "가능한 다운로드 없음"
+  },
+  "binary_not_found_modal": {
+    "title": "프로그램이 설치되지 않음",
+    "description": "Wine 또는 Lutris 실행 파일이 시스템에서 발견되지 않았습니다",
+    "instructions": "게임이 정상적으로 실행될 수 있게 당신의 리눅스 배포판에 Wine 또는 Lutris를 올바르게 설치해 주세요"
+  },
+  "modal": {
+    "close": "닫기 버튼"
+  }
+}

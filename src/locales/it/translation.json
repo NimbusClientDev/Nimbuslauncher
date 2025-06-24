@@ -1,0 +1,155 @@
+{
+  "language_name": "Italiano",
+  "home": {
+    "featured": "In primo piano",
+    "surprise_me": "Sorprendimi",
+    "no_results": "Nessun risultato trovato"
+  },
+  "sidebar": {
+    "catalogue": "Catalogo",
+    "downloads": "Download",
+    "settings": "Impostazioni",
+    "my_library": "La mia libreria",
+    "downloading_metadata": "{{title}} (Scaricamento metadati…)",
+    "paused": "{{title}} (In pausa)",
+    "downloading": "{{title}} ({{percentage}} - Download…)",
+    "filter": "Filtra libreria",
+    "home": "Home",
+    "favorites": "Preferiti",
+    "playable_button_title": "Mostra solo i giochi che puoi giocare ora"
+  },
+  "header": {
+    "search": "Cerca",
+
+    "home": "Home",
+    "catalogue": "Catalogo",
+    "downloads": "Download",
+    "search_results": "Risultati della ricerca",
+    "settings": "Impostazioni"
+  },
+  "bottom_panel": {
+    "no_downloads_in_progress": "Nessun download in corso",
+    "downloading_metadata": "Scaricamento metadati di {{title}}…",
+    "downloading": "Download di {{title}}… ({{percentage}} completato) - Conclusione {{eta}} - {{speed}}"
+  },
+  "catalogue": {
+    "next_page": "Pagina successiva",
+    "previous_page": "Pagina precedente"
+  },
+  "game_details": {
+    "open_download_options": "Apri opzioni di download",
+    "download_options_zero": "Nessuna opzione di download",
+    "download_options_one": "{{count}} opzione di download",
+    "download_options_other": "{{count}} opzioni di download",
+    "updated_at": "Aggiornato il {{updated_at}}",
+    "install": "Installa",
+    "resume": "Riprendi",
+    "pause": "Metti in pausa",
+    "cancel": "Annulla",
+    "remove": "Rimuovi",
+    "space_left_on_disk": "{{space}} rimasto sul disco",
+    "eta": "Conclusione {{eta}}",
+    "downloading_metadata": "Scaricamento metadati…",
+    "filter": "Filtra repack",
+    "requirements": "Requisiti di sistema",
+    "minimum": "Minimi",
+    "recommended": "Consigliati",
+    "release_date": "Rilasciato il {{date}}",
+    "publisher": "Pubblicato da {{publisher}}",
+    "hours": "ore",
+    "minutes": "minuti",
+    "amount_hours": "{{amount}} ore",
+    "amount_minutes": "{{amount}} minuti",
+    "accuracy": "{{accuracy}}% di accuratezza",
+    "add_to_library": "Aggiungi alla libreria",
+    "remove_from_library": "Rimuovi dalla libreria",
+    "no_downloads": "Nessun download disponibile",
+    "play_time": "Giocato per {{amount}}",
+    "last_time_played": "Ultimo gioco giocato {{period}}",
+    "not_played_yet": "Non hai ancora giocato a {{title}}",
+    "next_suggestion": "Prossimo suggerimento",
+    "play": "Gioca",
+    "deleting": "Eliminazione dell'installer…",
+    "close": "Chiudi",
+    "playing_now": "Stai giocando adesso",
+    "change": "Aggiorna",
+    "repacks_modal_description": "Scegli il repack che vuoi scaricare",
+    "select_folder_hint": "Per cambiare la cartella predefinita, accedi alle",
+    "download_now": "Scarica ora",
+    "no_shop_details": "Impossibile recuperare i dettagli del negozio.",
+    "download_options": "Opzioni di download",
+    "download_path": "Percorso di download",
+    "previous_screenshot": "Screenshot precedente",
+    "next_screenshot": "Screenshot successivo",
+    "screenshot": "Screenshot {{number}}",
+    "open_screenshot": "Apri screenshot {{number}}"
+  },
+  "activation": {
+    "title": "Attiva Hydra",
+    "installation_id": "ID installazione:",
+    "enter_activation_code": "Inserisci il tuo codice di attivazione",
+    "message": "Se non sai dove chiederlo, allora non dovresti averlo.",
+    "activate": "Attiva",
+    "loading": "Caricamento…"
+  },
+  "downloads": {
+    "resume": "Riprendi",
+    "pause": "Metti in pausa",
+    "eta": "Conclusione {{eta}}",
+    "paused": "In pausa",
+    "verifying": "Verifica…",
+    "completed": "Completato",
+    "cancel": "Annulla",
+    "filter": "Filtra giochi scaricati",
+    "remove": "Rimuovi",
+    "downloading_metadata": "Scaricamento metadati…",
+    "deleting": "Eliminazione dell'installer…",
+    "delete": "Rimuovi installer",
+    "delete_modal_title": "Sei sicuro?",
+    "delete_modal_description": "Questo rimuoverà tutti i file di installazione dal tuo computer",
+    "install": "Installa"
+  },
+  "settings": {
+    "downloads_path": "Percorso dei download",
+    "change": "Aggiorna",
+    "notifications": "Notifiche",
+    "enable_download_notifications": "Quando un download è completo",
+    "enable_repack_list_notifications": "Quando viene aggiunto un nuovo repack",
+    "real_debrid_api_token_label": "Token API Real Debrid",
+    "quit_app_instead_hiding": "Esci da Hydra invece di nascondere nell'area di notifica",
+    "launch_with_system": "Apri Hydra all'avvio",
+    "general": "Generale",
+    "behavior": "Comportamento",
+    "enable_real_debrid": "Abilita Real Debrid",
+    "cancel_button_confirmation_delete_all_sources": "NO",
+    "confirm_button_confirmation_delete_all_sources": "Sì, cancella tutto",
+    "description_confirmation_delete_all_sources": "Eliminerai tutte le fonti di download",
+    "title_confirmation_delete_all_sources": "Elimina tutte le fonti di download",
+    "removed_download_sources": "Fonti di download rimosse",
+    "button_delete_all_sources": "Rimuovi tutte le fonti di download",
+    "debrid_api_token_hint": "Puoi trovare la tua chiave API <0>here</0>",
+    "save_changes": "Salva modifiche"
+  },
+  "notifications": {
+    "download_complete": "Download completato",
+    "game_ready_to_install": "{{title}} è pronto per l'installazione",
+    "repack_list_updated": "Elenco repack aggiornato",
+    "repack_count_one": "{{count}} repack aggiunto",
+    "repack_count_other": "{{count}} repack aggiunti"
+  },
+  "system_tray": {
+    "open": "Apri Hydra",
+    "quit": "Esci"
+  },
+  "game_card": {
+    "no_downloads": "Nessun download disponibile"
+  },
+  "binary_not_found_modal": {
+    "title": "Programmi non installati",
+    "description": "Gli eseguibili di Wine o Lutris non sono stati trovati sul tuo sistema",
+    "instructions": "Verifica il modo corretto di installare uno di essi sulla tua distribuzione Linux in modo che il gioco possa funzionare normalmente"
+  },
+  "modal": {
+    "close": "Pulsante Chiudi"
+  }
+}

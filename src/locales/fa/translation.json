@@ -1,0 +1,146 @@
+{
+  "language_name": "فارسی",
+  "home": {
+    "featured": "پیشنهادی",
+    "surprise_me": "سوپرایزم کن",
+    "no_results": "اتمام‌ای پیدا نشد"
+  },
+  "sidebar": {
+    "catalogue": "کاتالوگ",
+    "downloads": "دانلودها",
+    "settings": "تنظیمات",
+    "my_library": "کتابخانه‌ی من",
+    "downloading_metadata": "{{title}} (در حال دانلود متادیتا...)",
+    "paused": "{{title}} (متوقف شده)",
+    "downloading": "{{title}} ({{percentage}} - در حال دانلود…)",
+    "filter": "فیلتر کردن کتابخانه",
+    "home": "خانه",
+    "favorites": "علاقه‌مندی‌ها"
+  },
+
+  "header": {
+    "search": "جستجوی  بازی‌ها",
+    "home": "خانه",
+    "catalogue": "کاتالوگ",
+    "downloads": "دانلود‌ها",
+    "search_results": "نتایج جستجو",
+    "settings": "تنظیمات"
+  },
+  "bottom_panel": {
+    "no_downloads_in_progress": "دانلودی در حال انجام نیست",
+    "downloading_metadata": "درحال دانلود متادیتاهای {{title}}…",
+    "downloading": "در حال دانلود {{title}}… ({{percentage}} تکمیل شده) - اتمام {{eta}} - {{speed}}"
+  },
+  "catalogue": {
+    "next_page": "صفحه‌ی بعدی",
+    "previous_page": "صفحه‌ی قبلی"
+  },
+  "game_details": {
+    "open_download_options": "بازکردن آپشن‌های دانلود",
+    "download_options_zero": "هیچ آپشن دانلودی وجود ندارد",
+    "download_options_one": "{{count}} آپشن دانلود",
+    "download_options_other": "{{count}} آپشن دانلود",
+    "updated_at": "بروزرسانی شده در {{updated_at}}",
+    "install": "نصب",
+    "resume": "ادامه",
+    "pause": "توقف",
+    "cancel": "بیخیال",
+    "remove": "حذف",
+    "space_left_on_disk": "{{space}} فضا در دیسک باقی‌مانده",
+    "eta": "اتمام {{eta}}",
+    "downloading_metadata": "در حال دانلود متادیتاها…",
+    "filter": "فیلترکردن ریپک‌ها",
+    "requirements": "سیستم مورد نیاز",
+    "minimum": "حداقل",
+    "recommended": "پیشنهادی",
+    "release_date": "منتشر شده در {{date}}",
+    "publisher": "منتشر شده توسط {{publisher}}",
+    "hours": "ساعت",
+    "minutes": "دقیقه",
+    "amount_hours": "{{amount}} ساعت",
+    "amount_minutes": "{{amount}} دقیقه",
+    "accuracy": "{{accuracy}}% دقت",
+    "add_to_library": "اضافه کردن به کتابخانه",
+    "remove_from_library": "حذف کردن از کتابخانه",
+    "no_downloads": "هیچ دانلودی نیست",
+    "play_time": "{{amount}} بازی شده",
+    "last_time_played": "آخرین بار بازی شده {{period}}",
+    "not_played_yet": "شما هنوز {{title}} را بازی نکرده‌اید",
+    "next_suggestion": "پیشنهاد بعدی",
+    "play": "بازی",
+    "deleting": "پاک کردن نصب کننده",
+    "close": "بستن",
+    "playing_now": "در حال بازی",
+    "change": "تغییر",
+    "repacks_modal_description": "ریپک مورد نظر برای دانلود را انتخاب کنید",
+    "select_folder_hint": "برای تغییر پوشه‌ی پیش‌فرض به <0>Settings</0> بروید",
+    "download_now": "الان دانلود کن"
+  },
+  "activation": {
+    "title": "فعال کردن هایدرا",
+    "installation_id": "ID نصب:",
+    "enter_activation_code": "کد فعال‌سازی خود را وارد کنید",
+    "message": "اگر نمی‌دانید از کجا باید درخواست کنید، پس نباید آن را داشته باشید.",
+    "activate": "فعال‌سازی",
+    "loading": "در حال بارگزاری…"
+  },
+  "downloads": {
+    "resume": "ادامه",
+    "pause": "توقف",
+    "eta": "اتمام {{eta}}",
+    "paused": "متوقف شده",
+    "verifying": "در حال اعتبارسنجی…",
+    "completed": "پایان یافته",
+    "cancel": "لغو",
+    "filter": "فیلتر بازی‌های دانلود شده",
+    "remove": "حذف",
+    "downloading_metadata": "در حال دانلود متادیتاها…",
+    "deleting": "در حال پاک کردن اینستالر…",
+    "delete": "پاک کردن",
+    "delete_modal_title": "مطمئنی؟",
+    "delete_modal_description": "این کار تمام فایل‌های اینستالر را از کامپیوتر شما حذف می‌کند",
+    "install": "نصف"
+  },
+  "settings": {
+    "downloads_path": "مسیر دانلودها",
+    "change": "بروزرسانی",
+    "notifications": "نوتیفیکشن‌ها",
+    "enable_download_notifications": "زمانی که یک دانلود تمام شد",
+    "enable_repack_list_notifications": "زمانی که یک ریپک جدید اضافه شد",
+    "quit_app_instead_hiding": "به جای کوچک کردن، از هایدرا خارج شو",
+    "launch_with_system": "زمانی که سیستم روشن می‌شود، هایدرا را باز کن",
+    "general": "کلی",
+    "behavior": "رفتار",
+    "cancel_button_confirmation_delete_all_sources": "خیر",
+    "confirm_button_confirmation_delete_all_sources": "ہاں، سب کچھ حذف کر دیں۔",
+    "description_confirmation_delete_all_sources": "آپ ڈاؤن لوڈ کے تمام ذرائع کو حذف کر دیں گے۔",
+    "title_confirmation_delete_all_sources": "تمام منابع دانلود را حذف کنید",
+    "removed_download_sources": "منابع دانلود حذف شد",
+    "button_delete_all_sources": "تمام منابع دانلود را حذف کنید",
+    "enable_real_debrid": "فعال‌سازی Real-Debrid",
+    "debrid_api_token_hint": "کلید API خود را از <ب0>اینجا</0> بگیرید.",
+    "save_changes": "ذخیره تغییرات"
+  },
+  "notifications": {
+    "download_complete": "دانلود تمام شد",
+    "game_ready_to_install": "{{title}} آماده‌ی نصب است",
+    "repack_list_updated": "لیست ریپک‌ها بروزرسانی شد",
+    "repack_count_one": "{{count}} ریپک اضافه شد",
+    "repack_count_other": "{{count}} ریپک اضافه شد"
+  },
+  "system_tray": {
+    "open": "باز کردن هایدرا",
+    "quit": "خروج"
+  },
+  "game_card": {
+    "no_downloads": "هیچ دانلودی نیست"
+  },
+  "binary_not_found_modal": {
+    "title": "نرم‌افزاری نصب نیست",
+    "description": "بر روی سیستم شما پیدا نشد Wine یا Lutris فایل‌های اجرایی",
+    "instructions": "روش صحیح نصب هر کدام از آن‌ها رو روی لینوکس خود چک کنید تا بازی بتواند به درستی اجرا شود"
+  },
+  "modal": {
+    "close": "دکمه‌ی خروج"
+  }
+}

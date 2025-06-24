@@ -1,0 +1,142 @@
+{
+  "language_name": "беларуская мова",
+  "home": {
+    "featured": "Рэкамэндаванае",
+    "surprise_me": "Здзіві мяне",
+    "no_results": "Няма вынікаў"
+  },
+  "sidebar": {
+    "catalogue": "Каталог",
+    "downloads": "Сцягванні",
+    "settings": "Налады",
+    "my_library": "Мая бібліятэка",
+    "downloading_metadata": "{{title}} (Сцягванне мэтаданых…)",
+    "paused": "{{title}} (Спынена)",
+    "downloading": "{{title}} ({{percentage}} - Сцягванне…)",
+    "filter": "Фільтар бібліятэкі",
+    "home": "Галоўная",
+    "favorites": "Улюбленыя"
+  },
+
+  "header": {
+    "search": "Пошук",
+    "home": "Галоўная",
+    "catalogue": "Каталог",
+    "downloads": "Сцягванні",
+    "search_results": "Вынікі пошуку",
+    "settings": "Налады"
+  },
+  "bottom_panel": {
+    "no_downloads_in_progress": "Няма актыўных сцягванняў",
+    "downloading_metadata": "Сцягванне мэтаданых {{title}}…",
+    "downloading": "Сцягванне {{title}}… ({{percentage}} скончана) - Канчатак {{eta}} - {{speed}}"
+  },
+  "catalogue": {
+    "next_page": "Наступная старонка",
+    "previous_page": "Папярэдняя старонка"
+  },
+  "game_details": {
+    "open_download_options": "Адкрыць варыянты сцягвання",
+    "download_options_zero": "Няма варыянтаў сцягвання",
+    "download_options_one": "{{count}} варыянт сцягвання",
+    "download_options_other": "{{count}} варыянтаў сцягвання",
+    "updated_at": "Абноўлена {{updated_at}}",
+    "install": "Усталяваць",
+    "resume": "Працягнуць",
+    "pause": "Спыніць",
+    "cancel": "Скасаваць",
+    "remove": "Выдаліць",
+    "space_left_on_disk": "{{space}} засталося на дыску",
+    "eta": "Канчатак {{eta}}",
+    "downloading_metadata": "Сцягванне мэтаданых…",
+    "filter": "Фільтар рэпакаў",
+    "requirements": "Сістэмныя патрэбаванни",
+    "minimum": "Мінімальныя",
+    "recommended": "Рэкамендуемыя",
+    "release_date": "Выпушчана {{date}}",
+    "publisher": "Выдана {{publisher}}",
+    "hours": "гадзін",
+    "minutes": "хвілін",
+    "amount_hours": "{{amount}} гадзін",
+    "amount_minutes": "{{amount}} хвілін",
+    "accuracy": "{{accuracy}}% дакладнасць",
+    "add_to_library": "Дадаць да бібліятэкі",
+    "remove_from_library": "Выдаліць з бібліятэкі",
+    "no_downloads": "Няма даступных сцягванняў",
+    "play_time": "Гулялі {{amount}}",
+    "last_time_played": "Апошні раз гулялі {{period}}",
+    "not_played_yet": "Вы яшчэ не гулялі ў {{title}}",
+    "next_suggestion": "Наступная прапанова",
+    "play": "Гуляць",
+    "deleting": "Выдаленне ўсталёўшчыка…",
+    "close": "Закрыць",
+    "playing_now": "Зараз гуляе",
+    "change": "Змяніць",
+    "repacks_modal_description": "Абярыце рэпак, які хочаце сцягнуць",
+    "select_folder_hint": "Каб змяніць папку па змоўчанні, адкрыйце",
+    "download_now": "Сцягнуць зараз"
+  },
+  "activation": {
+    "title": "Актываваць Hydra",
+    "installation_id": "ID усталёўкі:",
+    "enter_activation_code": "Увядзіце ваш код актывацыі",
+    "message": "Калі вы ня ведаеце, дзе яго атрымаць, то не мусіць гэтага рабіць.",
+    "activate": "Актываваць",
+    "loading": "Загрузка…"
+  },
+  "downloads": {
+    "resume": "Працягнуць",
+    "pause": "Спыніць",
+    "eta": "Канчатак {{eta}}",
+    "paused": "Спынена",
+    "verifying": "Праверка…",
+    "completed": "Скончана",
+    "cancel": "Скасаваць",
+    "filter": "Фільтар сцягнутых гульняў",
+    "remove": "Выдаліць",
+    "downloading_metadata": "Сцягванне мэтаданых…",
+    "deleting": "Выдаленне ўсталёўшчыка…",
+    "delete": "Выдаліць усталёўшчык",
+    "delete_modal_title": "Вы ўпэўнены?",
+    "delete_modal_description": "Гэта выдаліць усе файлы ўсталёвак з вашага кампутара",
+    "install": "Усталяваць"
+  },
+  "settings": {
+    "downloads_path": "Шлях сцягвання",
+    "change": "Змяніць шлях",
+    "notifications": "Апавяшчэнні",
+    "enable_download_notifications": "Па сканчэнні сцягванні",
+    "enable_repack_list_notifications": "Пры даданні новага рэпака",
+    "cancel_button_confirmation_delete_all_sources": "Няма",
+    "confirm_button_confirmation_delete_all_sources": "Так,выдаліць усё",
+    "description_confirmation_delete_all_sources": "Вы выдаліце ​​ўсе крыніцы сцягвання",
+    "title_confirmation_delete_all_sources": "Выдаліць усе крыніцы сцягвання",
+    "removed_download_sources": "Крыніцы сцягвання выдалены",
+    "button_delete_all_sources": "Премахнете всички източници на изтегляне",
+    "behavior": "Паводзіны",
+    "quit_app_instead_hiding": "Закрываць праграму замест таго, каб хаваць яе ў трэй",
+    "launch_with_system": "Запускаць праграму пры запуску сыстэмы"
+  },
+  "notifications": {
+    "download_complete": "Сцягванне скончана",
+    "game_ready_to_install": "{{title}} гатова да ўсталёўкі",
+    "repack_list_updated": "Спіс рэпакаў абноўлены",
+    "repack_count_one": "{{count}} рэпак дададзены",
+    "repack_count_other": "{{count}} рэпакаў дададзена"
+  },
+  "system_tray": {
+    "open": "Адкрыць Hydra",
+    "quit": "Выйсьці"
+  },
+  "game_card": {
+    "no_downloads": "Няма даступных сцягванняў"
+  },
+  "binary_not_found_modal": {
+    "title": "Праграмы не ўсталяваныя",
+    "description": "Выканальныя файлы Wine ці Lutris ня знойдзеныя ў вашай сістэме",
+    "instructions": "Даведайцеся, як правільна ўсталяваць любы з іх на вашым дыстрыбутыве Linux, каб гульня магла працаваць нармальна"
+  },
+  "modal": {
+    "close": "Кнопка закрыцця"
+  }
+}

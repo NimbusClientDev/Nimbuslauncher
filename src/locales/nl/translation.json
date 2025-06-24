@@ -1,0 +1,147 @@
+{
+  "language_name": "Nederlands",
+  "home": {
+    "featured": "Uitgelicht",
+    "surprise_me": "Verrasing",
+    "no_results": "Geen resultaten gevonden"
+  },
+  "sidebar": {
+    "catalogue": "catalogus",
+    "downloads": "Downloads",
+    "settings": "Instellingen",
+    "my_library": "Mijn Bibliotheek",
+    "downloading_metadata": "{{title}} (Downloading metadata…)",
+    "paused": "{{title}} (Gepauzeerd)",
+    "downloading": "{{title}} ({{percentage}} - Downloading…)",
+    "filter": "Filter Bibliotheek",
+    "home": "Home",
+    "favorites": "Favorieten"
+  },
+  "header": {
+    "search": "Zoek spellen",
+
+    "home": "Home",
+    "catalogue": "Bibliotheek",
+    "downloads": "Downloads",
+    "search_results": "Zoek resultaten",
+    "settings": "Instellingen"
+  },
+  "bottom_panel": {
+    "no_downloads_in_progress": "Geen Downloads bezig",
+    "downloading_metadata": "Downloading {{title}} metadata…",
+    "downloading": "Downloading {{title}}… ({{percentage}} complete) - Conclusion {{eta}} - {{speed}}"
+  },
+  "catalogue": {
+    "next_page": "Volgende Pagina",
+    "previous_page": "Vorige Pagina"
+  },
+  "game_details": {
+    "open_download_options": "Open download Instellingen",
+    "download_options_zero": "Geen download Instellingen",
+    "download_options_one": "{{count}} download Instellingen",
+    "download_options_other": "{{count}} download Instellingen",
+    "updated_at": "Geupdate {{updated_at}}",
+    "install": "Instaleer",
+    "resume": "Verder gaan",
+    "pause": "Pauze",
+    "cancel": "Stoppen",
+    "remove": "Verwijderen",
+    "space_left_on_disk": "{{space}} Over op schijf",
+    "eta": "Conclusie {{eta}}",
+    "downloading_metadata": "Downloading metadata…",
+    "filter": "Filter repacks",
+    "requirements": "Systeem vereisten",
+    "minimum": "Minimaal",
+    "recommended": "Aanbevolen",
+    "release_date": "Uitgebracht op {{date}}",
+    "publisher": "Gepubliceerd door {{publisher}}",
+    "hours": "uren",
+    "minutes": "minuten",
+    "amount_hours": "{{amount}} uren",
+    "amount_minutes": "{{amount}} minuten",
+    "accuracy": "{{accuracy}}% nauwkeurigheid",
+    "add_to_library": "Toevoegen aan bibliotheek",
+    "remove_from_library": "Verwijderen uit bibliotheek",
+    "no_downloads": "Geen downloads beschikbaar",
+    "play_time": "Voor gespeeld {{amount}}",
+    "last_time_played": "Laatst gespeeld {{period}}",
+    "not_played_yet": "Je hebt nog niet gespeeld {{title}}",
+    "next_suggestion": "Volgende suggestie",
+    "play": "Speel",
+    "deleting": "Installatieprogramma verwijderen…",
+    "close": "Sluiten",
+    "playing_now": "Speel nu",
+    "change": "Verander",
+    "repacks_modal_description": "Kies de herverpakking die u wilt downloaden",
+    "select_folder_hint": "Om de standaardmap te wijzigen, gaat u naar <0>instellingen</0>",
+    "download_now": "Download nu"
+  },
+  "activation": {
+    "title": "Activeer Hydra",
+    "installation_id": "Installatie-ID:",
+    "enter_activation_code": "Voer uw activatiecode in",
+    "message": "Als je niet weet waar je dit moet vragen, dan moet je dit niet hebben.",
+    "activate": "Activeren",
+    "loading": "Bezig met laden…"
+  },
+  "downloads": {
+    "resume": "Hervatten",
+    "pause": "Pauze",
+    "eta": "Conclusie{{eta}}",
+    "paused": "Gepauzeerd",
+    "verifying": "Verifiëren…",
+    "completed": "Voltooid",
+    "cancel": "Annuleren",
+    "filter": "Filter gedownloade games",
+    "remove": "Verwijderen",
+    "downloading_metadata": "Metagegevens downloaden",
+    "deleting": "Installatieprogramma verwijderen…",
+    "delete": "Installatieprogramma verwijderen",
+    "delete_modal_title": "Weet je het zeker?",
+    "delete_modal_description": "Hiermee worden alle installatiebestanden van uw computer verwijderd",
+    "install": "Installeren"
+  },
+  "settings": {
+    "downloads_path": "Downloadpad",
+    "change": "Update",
+    "notifications": "Meldingen",
+    "enable_download_notifications": "Wanneer een download voltooid is",
+    "enable_repack_list_notifications": "Wanneer een nieuwe herverpakking wordt toegevoegd",
+    "real_debrid_api_token_label": "Real-Debrid API token",
+    "quit_app_instead_hiding": "Sluit Hydra af in plaats van te minimaliseren naar de lade",
+    "launch_with_system": "Start Hydra bij het opstarten van het systeem",
+    "general": "Algemeen",
+    "behavior": "Gedrag",
+    "cancel_button_confirmation_delete_all_sources": "Nee",
+    "confirm_button_confirmation_delete_all_sources": "Ja, verwijder alles",
+    "description_confirmation_delete_all_sources": "Je verwijdert alle downloadbronnen",
+    "title_confirmation_delete_all_sources": "Verwijder alle downloadbronnen",
+    "removed_download_sources": "Downloadbronnen verwijderd",
+    "button_delete_all_sources": "Verwijder alle downloadbronnen",
+    "enable_real_debrid": "Enable Real-Debrid",
+    "debrid_api_token_hint": "U kunt uw API-sleutel <0>hier</0> verkrijgen.",
+    "save_changes": "Wijzigingen opslaan"
+  },
+  "notifications": {
+    "download_complete": "Download compleet",
+    "game_ready_to_install": "{{title}} is klaar om te installeren",
+    "repack_list_updated": "Herpaklijst bijgewerkt",
+    "repack_count_one": "{{count}} herverpakking toegevoegd",
+    "repack_count_other": "{{count}} herverpakkingen toegevoegd"
+  },
+  "system_tray": {
+    "open": "Open Hydra",
+    "quit": "Verlaten"
+  },
+  "game_card": {
+    "no_downloads": "Geen downloads beschikbaar"
+  },
+  "binary_not_found_modal": {
+    "title": "Programma's niet geïnstalleerd",
+    "description": "Er zijn geen uitvoerbare bestanden van Wine of Lutris gevonden op uw systeem",
+    "instructions": "Controleer de juiste manier om ze op je Linux-distro te installeren, zodat de game normaal kan werken"
+  },
+  "modal": {
+    "close": "Knop Sluiten"
+  }
+}
