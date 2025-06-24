@@ -1,6 +1,6 @@
 <div align="center">
 
-[<img src="./resources/icon (2).png" width="144"/>](https://help.nimbuslauncher.gg)
+[<img src="./resources/icon.png" width="144"/>](https://help.nimbuslauncher.gg)
 
   <h1 align="center">Nimbus Launcher</h1>
 
@@ -28,11 +28,6 @@
 
 Please, refer to our Documentation pages: [docs.nimbuslauncher.gg](https://docs.nimbuslauncher.gg/getting-started)
 
-## Contributors
-
-<a href="https://github.com/nimbuslauncher/nimbus/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=nimbuslauncher/nimbus" />
-</a>
 
 ## License
 
